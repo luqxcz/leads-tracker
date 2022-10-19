@@ -1,5 +1,4 @@
 let myLeads = []
-let oldLeads = []
 const inputEl = document.getElementById("input-el")
 const inputBtn = document.getElementById("input-btn")
 const ulEl = document.getElementById("ul-el")
@@ -10,6 +9,7 @@ if (leadsFromLocalStorage) {
   myLeads = leadsFromLocalStorage
   render(myLeads)
 }
+
 
 function render(leads) {
   let listItems = ""
