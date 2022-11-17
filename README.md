@@ -16,6 +16,10 @@ the extension in your browser.
 
 ### Usage
 
+1. Method 1: Type the link in the input field and click the Save Input button
+
+2. Method 2: Click save tab to grab the the URL and save it.
+
 ![Leads Tracker](./screenshots/app.jpg?raw=true "Leads Tracker")
 
 ![Extension](./screenshots/leadstracker.jpg?raw=true "Leads Tracker")
